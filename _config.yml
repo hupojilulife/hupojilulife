@@ -9,3 +9,5 @@ description: 关于炸鸡，关于爱
 author: 炸鸡艺术家
 language:
 timezone: Asia/Shanghai
+github:
+  is_project_page: false
