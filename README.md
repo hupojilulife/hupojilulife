@@ -1,8 +1,8 @@
 # 美味轰炸鸡.我爱你
 
-You can use the [editor on GitHub](https://github.com/boleshouce/boleshouce/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我们的官网是：[http://美味轰炸鸡.我爱你](http://美味轰炸鸡.我爱你)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ## 关于美味轰炸鸡
 
