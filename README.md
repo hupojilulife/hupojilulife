@@ -1,24 +1,23 @@
 # 美味轰炸鸡.我爱你
 
-我们的官网是：[https://美味轰炸鸡.我爱你](https://美味轰炸鸡.我爱你)
+官网就是：[https://美味轰炸鸡.我爱你](https://美味轰炸鸡.我爱你)
 
 
 
 ## 关于美味轰炸鸡
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一些美食，一些美丽的心情
 
 
-
-# 第一
+## 第一
 ## 其次
-### 然后
+## 然后
 
-- Bulleted
-- List
+- 吃啊
+- 喝啊
 
-1. Numbered
-2. List
+1. 香辣鸡翅
+2. 香辣鸡腿
 
 
 
